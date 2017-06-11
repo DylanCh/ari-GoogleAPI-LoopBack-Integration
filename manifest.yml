@@ -1,0 +1,3 @@
+applications:
+- name: ari-academic-research-interface
+  memory: 256M
