@@ -37,7 +37,7 @@ app.get('/test',function(request,response){
     "duplicate": "false",
     "urls": "false",
     "faithfulMetadata": "false",
-    "apiKey": "aqgFo46ucNkU8WECvROZMpDLh3Ss2rGB"
+    "apiKey": ""
   });
 
   req.headers({
